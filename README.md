@@ -59,7 +59,7 @@ This project performs Exploratory Data Analysis (EDA) on New York Airbnb data to
 ```pip install pandas numpy matplotlib seaborn```
 
 ## Run the Jupyter notebook or Python script:
-```file.ipynb```
+```Airbnblistings_2024_analysis.ipynb```
 
 ## Recommendations
 
