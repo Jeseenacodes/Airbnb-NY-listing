@@ -56,5 +56,5 @@ git clone https://github.com/najirh/Python-Project-P2-New-York-AirBnb-Listing-20
 pip install pandas numpy matplotlib seaborn
 jupyter notebook day23_airbnb_eda.ipynb
 
-License
+## License
 This project is open-source and licensed under the MIT License.
