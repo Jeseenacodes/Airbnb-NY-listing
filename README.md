@@ -50,11 +50,16 @@ This project performs Exploratory Data Analysis (EDA) on New York Airbnb data to
 - Higher availability correlates with lower prices and more reviews.
 - Hosts managing multiple listings indicate professional hosting trends.
 
-## How to Run This Project
-```bash```
-`git clone https://github.com/najirh/Python-Project-P2-New-York-AirBnb-Listing-2024.git`
-`pip install pandas numpy matplotlib seaborn`
-`jupyter notebook day23_airbnb_eda.ipynb`
+# How to Run This Project
+
+## Clone the repository
+```git clone https://github.com/najirh/Python-Project-P2-New-York-AirBnb-Listing-2024.git```
+
+##Install the required libraries
+```pip install pandas numpy matplotlib seaborn```
+
+##Run the Jupyter notebook or Python script:
+```file.ipynb```
 
 ## Recommendations
 
