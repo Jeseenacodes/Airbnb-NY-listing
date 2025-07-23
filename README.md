@@ -52,13 +52,13 @@ This project performs Exploratory Data Analysis (EDA) on New York Airbnb data to
 
 # How to Run This Project
 
-## Clone the repository
+## Clone the repository:
 ```git clone https://github.com/najirh/Python-Project-P2-New-York-AirBnb-Listing-2024.git```
 
-##Install the required libraries
+## Install the required libraries:
 ```pip install pandas numpy matplotlib seaborn```
 
-##Run the Jupyter notebook or Python script:
+## Run the Jupyter notebook or Python script:
 ```file.ipynb```
 
 ## Recommendations
