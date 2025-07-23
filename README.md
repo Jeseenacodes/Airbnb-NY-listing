@@ -51,10 +51,29 @@ This project performs Exploratory Data Analysis (EDA) on New York Airbnb data to
 - Hosts managing multiple listings indicate professional hosting trends.
 
 ## How to Run This Project
-```bash
+```bash```
 git clone https://github.com/najirh/Python-Project-P2-New-York-AirBnb-Listing-2024.git
 pip install pandas numpy matplotlib seaborn
 jupyter notebook day23_airbnb_eda.ipynb
 
+## Recommendations
+
+### For Guests
+- Choose listings with high availability and positive reviews for better experiences.
+- Consider private rooms in Brooklyn for affordable stays.
+
+### For Hosts
+- Improve availability and responsiveness to reviews to attract bookings.
+- Manage pricing strategically within your borough.
+
+## Future Work
+- Implement machine learning models to predict listing prices.
+- Perform sentiment analysis on guest reviews.
+- Develop an interactive dashboard using Plotly or Tableau.
+
+## Conclusion
+This EDA project provides valuable insights into New York’s Airbnb market, empowering guests and hosts to make informed decisions. Further improvements through advanced analytics can enhance these findings.
+
 ## License
 This project is open-source and licensed under the MIT License.
+
